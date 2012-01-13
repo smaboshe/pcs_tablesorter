@@ -1,6 +1,6 @@
 # pcs_tablesorter
 
-TODO: Write a gem description
+This gem packages the excellent tablesorter.js library for in the Rails 3 asset pipeline.
 
 ## Installation
 
