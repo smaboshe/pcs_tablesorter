@@ -1,4 +1,5 @@
 require "pcs_tablesorter/version"
+require "pcs_tablesorter/generators/install_generator"
 
 module Tablesorter
   class Engine < Rails::Engine
