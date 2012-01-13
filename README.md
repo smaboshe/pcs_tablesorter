@@ -18,7 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add the required libraries to your asset pipeline:
+
+	$ rails generate tablesorter:install
+	
+Or manually add it to application.js
 
 ## Contributing
 
