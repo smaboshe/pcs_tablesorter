@@ -1,5 +1,5 @@
 require "pcs_tablesorter/version"
 
-module PcsTablesorter
+module Tablesorter
   # Your code goes here...
 end

@@ -1,4 +1,4 @@
-# PcsTablesorter
+# pcs_tablesorter
 
 TODO: Write a gem description
 

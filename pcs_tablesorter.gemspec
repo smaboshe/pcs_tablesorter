@@ -13,5 +13,5 @@ Gem::Specification.new do |gem|
   gem.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
   gem.name          = "pcs_tablesorter"
   gem.require_paths = ["lib"]
-  gem.version       = PcsTablesorter::VERSION
+  gem.version       = Tablesorter::VERSION
 end
